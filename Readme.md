@@ -1,7 +1,6 @@
 # CollabX - A Collaborative Trustless Platform for Hustlers
 
-[![Screenshot-524.png](https://ibb.co/GWbRGds)
-
+[![Collab-X-Scrren.jpg](https://i.postimg.cc/65dd1MqF/Collab-X-Scrren.jpg)](https://postimg.cc/Wh1Fd6M7)
 
 ## Front-End Setup
 
