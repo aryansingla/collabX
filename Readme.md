@@ -1,5 +1,8 @@
 # CollabX - A Collaborative Trustless Platform for Hustlers
 
+[![Screenshot-524.png](https://ibb.co/GWbRGds)
+
+
 ## Front-End Setup
 
 - Next.JS
